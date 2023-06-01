@@ -1,6 +1,6 @@
 # MauiAzureOpenAI
 
-This project demontsrates  of the Azure.AI.OpenAI client library to 
+This project shows you how to use the Azure.AI.OpenAI client library to generate an OpenAI Chatbot response to a prompt.
 
 ## Building
 
@@ -9,4 +9,3 @@ This project demontsrates  of the Azure.AI.OpenAI client library to
 ## Screenshots
 
 ![MAOI](../../Screenshots/MauiAzureOpenAI_NoMD.png)
-
